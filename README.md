@@ -1,4 +1,4 @@
-# sqlzoo_querries
+# sqlzoo_queries
 Question answers from sql_zoo
 
 
